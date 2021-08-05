@@ -101,7 +101,7 @@ main {
 }
 
 .image {
-    content: url(/images/image-header-mobile.jpg);
+    content: url(./images/image-header-mobile.jpg);
     max-width: 100%;
     margin-bottom: -4px;
     border-top-left-radius: 10px;
@@ -182,7 +182,7 @@ footer a:visited {
     }
     
     .image {
-        content: url(/images/image-header-desktop.jpg);
+        content: url(./images/image-header-desktop.jpg);
     }
 
     .image-container {
