@@ -94,11 +94,17 @@ main {
 }
 
 .image {
-    content: url("./images/image-header-mobile.jpg");
     max-width: 100%;
-    margin-bottom: -4px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+}
+
+#desktop {
+    display: none;
+}
+
+#mobile {
+    display: block;
 }
 
 .image-container {
@@ -175,8 +181,12 @@ footer a:visited {
         justify-content: space-between;
     }
     
-    .image {
-        content: url("./images/image-header-desktop.jpg");
+    #desktop {
+        display: block;
+    }
+
+    #mobile {
+        display: none;
     }
     
     .image-container {
