@@ -42,3 +42,7 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Minarisa](https://www.frontendmentor.io/profile/Minarisa)
+
+## Acknowledgments
+
+Thanks to [Vanza Setia](https://www.frontendmentor.io/profile/vanzasetia), for pointing my mistakes and providing a lot of advices!
